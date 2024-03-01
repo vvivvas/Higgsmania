@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi-cu/badge?page_id=vvivvas.Higgsmania" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=3000&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=Higgsmania" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=2000&pause=400&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=+;Welcome+to+the+Higgsmania+Repo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=3000&color=2E15F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=90&lines=Higgsmania" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=2000&pause=400&color=2E15F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=90&lines=+;Welcome+to+the+Higgsmania+Repo" alt="Typing SVG" /></a>
 </h1>
 
 <br/>
@@ -34,6 +34,8 @@ Hi, everyone! This is the Higgsmania repository, made for the Backdrop Build V3.
 </div>
 
 <br/>
+
+
 
 ## Game Features
 
