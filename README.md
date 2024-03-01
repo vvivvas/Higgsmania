@@ -7,9 +7,9 @@
 
 <br/>
 
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/vvivvas/Higgsmania?style=for-the-badge&labelColor=orange&color=black">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/vvivvas/Higgsmania?style=for-the-badge&labelColor=orange&color=black">
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/vvivvas/Higgsmania?style=for-the-badge&logo=github&color=black"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/vvivvas/Higgsmania?style=for-the-badge&logo=github&color=black"> <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/vvivvas/Higgsmania?style=for-the-badge&logo=github&color=black"> <img alt="GitHub License" src="https://img.shields.io/github/license/vvivvas/Higgsmania?style=for-the-badge&logo=gnu&logoColor=white&color=black">
 
+<br/>
 
 Hi, everyone! This is the Higgsmania repository, made for the Backdrop Build V3. It's open source from top to bottom and our team hope you find not only the code enjoyable but all its solutions at least interesting. Higgsmania is a particle physics inspired bullet hell game, containing gimmicks and themes from all over modern physics alongside more mystical innuendos from early scientific theories and history, that is 17th century and 18th century perspectives. Not only the many bullets (danmaku) were designed from the Standard Model, but many special movements are mirrored from quantum effects and story/lore emphasis are from cosmology and thermodynamics, including a late 19thcentury English and French aesthetics to the player motifs and identity. It was a lot of fun to develop each and every asset and functionality, so have fun exploring the code and its compilations.
 
