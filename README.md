@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi-cu/badge?page_id=vvivvas.Higgsmania" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=400&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=Higgsmania" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=2000&pause=400&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=+;Welcome+to+the+Higgsmania+Repo" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=3000&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=Higgsmania" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=2000&pause=400&color=2E15F7&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=+;Welcome+to+the+Higgsmania+Repo" alt="Typing SVG" /></a>
 </h1>
 
 <br/>
@@ -17,6 +17,8 @@ Hi, everyone! This is the Higgsmania repository, made for the Backdrop Build V3.
 </div>
 
 ## Featured Technologies
+
+<br/>
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170">
@@ -35,20 +37,25 @@ Hi, everyone! This is the Higgsmania repository, made for the Backdrop Build V3.
 
 ## Game Features
 
+<br/>
+
 ## Building the code and Installing Higgsmania
 
 ### on Linux
+
 <br/>
+
 ### on Windows
 
 <br/>
+
 ### on Mac 
 <br/>
 
 ## Contact info and Social Media
 
 Email: vvivvas.work@gmail.com
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://twitter.com/vvivvas">
@@ -56,7 +63,4 @@ Email: vvivvas.work@gmail.com
   </a>
   <a href="https://www.linkedin.com/in/vvivvas/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://www.lua.org">
-    <img src="https://skillicons.dev/icons?i=lua"/>
   </a>
